@@ -98,13 +98,6 @@ DevOps Engineer with **5+ years of experience** in Azure cloud infrastructure, c
 - Pull request validation
 - Security scans using Gitleaks, TFLint, and Checkov
 
-### 📊 Monitoring & Logging
-
-- Azure Monitor dashboards
-- Log Analytics Workspace
-- Prometheus metrics
-- Grafana visualization
-
 ---
 
 ## 🌱 Currently Learning
