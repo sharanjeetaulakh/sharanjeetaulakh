@@ -6,7 +6,7 @@
 
 <div align="center">
 
-***Designing and automating cloud infrastructure***
+***Designing and Automating Cloud Infrastructure***
 
 </div>
 
