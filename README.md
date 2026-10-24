@@ -1,40 +1,122 @@
+<div align="center">
+
 # Hi, I'm Sharanjeet Kaur 👋
 
-**DevOps Engineer | Microsoft Azure | Terraform | Azure DevOps | CI/CD**
+<a href="https://www.google.com/search?q=DevOps+Engineer" target="_blank">
+<img src="https://img.shields.io/badge/DevOps%20Engineer-0078D4?style=flat-square"/>
+</a>
 
-I work on cloud infrastructure automation, Infrastructure as Code (IaC), CI/CD pipelines, and Linux monitoring. My GitHub repositories showcase hands-on practice with Azure, Terraform modules, and DevOps automation.
+<a href="https://www.google.com/search?q=Azure" target="_blank">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+</a>
 
-## 🛠️ Technologies
+<a href="https://www.google.com/search?q=Terraform" target="_blank">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</a>
 
-- **Cloud:** Microsoft Azure
-- **IaC:** Terraform
-- **CI/CD:** Azure DevOps Pipelines
-- **Operating Systems:** Linux
-- **Scripting:** Bash
-- **Version Control:** Git & GitHub
+<a href="https://www.google.com/search?q=Azure+DevOps" target="_blank">
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
+</a>
 
-## 📂 Repositories
+<a href="https://www.google.com/search?q=CI%2FCD" target="_blank">
+<img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square"/>
+</a>
 
-### ☁️ Terraform & Azure Infrastructure
+<a href="https://www.google.com/search?q=Docker" target="_blank">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</a>
 
-- [terraform-azure-resource-group](https://github.com/sharanjeetaulakh/terraform-azure-resource-group) — Azure Resource Group module
-- [terraform-azure-storage-account](https://github.com/sharanjeetaulakh/terraform-azure-storage-account) — Azure Storage Account module
-- [terraform-azure-container](https://github.com/sharanjeetaulakh/terraform-azure-container) — Azure Storage Container module
-- [terraform-azure-blob](https://github.com/sharanjeetaulakh/terraform-azure-blob) — Azure Blob module
-- [terraform-azure-infrastructure](https://github.com/sharanjeetaulakh/terraform-azure-infrastructure) — Infrastructure assembled using Terraform modules
+<a href="https://www.google.com/search?q=AI+in+DevOps" target="_blank">
+<img src="https://img.shields.io/badge/AI-7B42BC?style=flat-square"/>
+</a>
 
-### 🐧 Linux & CI/CD
+</div>
 
-- [infrapulse-linux-monitoring](https://github.com/sharanjeetaulakh/infrapulse-linux-monitoring) — Linux health and service monitoring using Bash
-- [infrapulse-linux-monitoring-cicd](https://github.com/sharanjeetaulakh/infrapulse-linux-monitoring-cicd) — Azure DevOps pipeline for monitoring checks
+---
 
-## 🎯 Current Focus
+## 👩‍💻 About Me
 
-- Improving reusable Terraform modules
-- Building reliable Azure DevOps pipelines
-- Practising cloud infrastructure automation
-- Strengthening Linux monitoring and scripting skills
+DevOps Engineer with **5+ years of experience** in cloud infrastructure, automation, and CI/CD.
 
-## 🤝 Connect
+Hands-on experience with **Microsoft Azure, Terraform, Azure DevOps, Docker, Git, GitHub, Linux, and Infrastructure as Code (IaC)**.
 
-- [GitHub](https://github.com/sharanjeetaulakh)   - [LinkedIn](https://www.linkedin.com/in/sharanjeetaulakh/)
+Experienced in **Azure infrastructure provisioning, deployment automation, networking, monitoring, access management, and troubleshooting**.
+
+Also working with **GitHub Copilot and Harness AI** for AI-assisted development and DevOps workflows.
+
+---
+
+## 🛠️ Skills
+
+### ☁️ Cloud & Infrastructure
+
+`Azure` `Virtual Machines` `VNet` `Subnets` `NSG` `Storage Account` `Key Vault` `Application Gateway` `Azure Bastion`
+
+### ⚙️ DevOps & Automation
+
+`Terraform` `Azure DevOps` `CI/CD` `YAML` `Docker` `IaC` `Azure CLI`
+
+### 🔀 Version Control
+
+`Git` `GitHub` `Azure Repos` `Pull Requests` `Code Reviews`
+
+### 🔐 Security
+
+`Gitleaks` `TFLint` `Checkov`
+
+### 📊 Monitoring
+
+`Azure Monitor` `Log Analytics`
+
+### 🔑 Identity & Access
+
+`Microsoft Entra ID` `RBAC` `ARM`
+
+### 🤖 AI-Assisted Development
+
+`GitHub Copilot` `Harness AI`
+
+---
+
+## 💼 Experience
+
+* Provisioned and managed **Azure infrastructure** using Terraform, Azure CLI, and ARM.
+* Developed and maintained **reusable Terraform modules** and remote state configuration.
+* Designed **Azure DevOps YAML Pipelines** for CI/CD and infrastructure deployments.
+* Managed Azure resources including **VNets, NSGs, Storage Accounts, Key Vault, Application Gateway, and Bastion**.
+* Used **Docker** for building images and containerizing applications.
+* Implemented **Gitleaks, TFLint, and Checkov** for security and Terraform validation.
+* Used **Azure Monitor and Log Analytics** for monitoring and troubleshooting.
+* Followed Git workflows including **branching, Pull Requests, and code reviews**.
+* Used **GitHub Copilot and Harness AI** for development and DevOps automation.
+
+---
+
+## 📚 Currently Learning
+
+<a href="https://www.google.com/search?q=Kubernetes" target="_blank">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</a>   <a href="https://www.google.com/search?q=Prometheus" target="_blank">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+</a>   <a href="https://www.google.com/search?q=Grafana" target="_blank">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</a>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sharanjeetaulakh/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>    <a href="https://github.com/sharanjeetaulakh/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+</div>
