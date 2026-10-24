@@ -12,13 +12,8 @@
 
 </div>
 
----
 
-Azure Infrastructure · Terraform · DevOps Automation
 
-Build with code. Automate with purpose. Engineer for the cloud.
-
-Explore Organization · Explore Repositories
 
 </div>
 
