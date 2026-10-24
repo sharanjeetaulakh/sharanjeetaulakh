@@ -36,7 +36,7 @@
 
 ## 👩‍💻 About Me
 
-DevOps Engineer with **5 years and 7 months of total professional experience**, including **3 years and 5 months of DevOps experience** and previous experience in Cloud Engineering.
+DevOps Engineer with **5 years and 7 months of total IT experience**, including **3 years and 5 months of DevOps experience** and previous experience in Cloud Engineering.
 
 Hands-on experience with **Microsoft Azure, Terraform, Azure DevOps, Docker, Git, GitHub, Linux, and Infrastructure as Code (IaC)**.
 
