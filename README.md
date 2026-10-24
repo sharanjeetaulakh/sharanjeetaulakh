@@ -3,8 +3,16 @@
 <div align="center">
 
 <a href="https://github.com/NovaInfraLabs">
-  <img src="https://img.shields.io/badge/NovaInfraLabs-Organization-C9A227?style=for-the-badge&logo=github&logoColor=white" alt="NovaInfraLabs Organization"/>
+  <img src="https://img.shields.io/badge/NovaInfraLabs-Azure%20%7C%20Terraform-C9A227?style=for-the-badge&logo=github&logoColor=white" alt="NovaInfraLabs"/>
 </a>
+
+**Azure Infrastructure as Code | Terraform Modules | DevOps Automation**
+
+[Organization](https://github.com/NovaInfraLabs) · [Repositories](https://github.com/orgs/NovaInfraLabs/repositories)
+
+</div>
+
+---
 
 Azure Infrastructure · Terraform · DevOps Automation
 
