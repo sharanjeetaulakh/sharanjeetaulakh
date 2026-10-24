@@ -1,33 +1,40 @@
-# Sharanjeet Kaur
+# Hi, I'm Sharanjeet Kaur 👋
 
-DevOps Engineer working with Microsoft Azure, Terraform, Azure DevOps, CI/CD, and Linux.
+**DevOps Engineer | Microsoft Azure | Terraform | Azure DevOps | CI/CD**
 
-- Building reusable Terraform modules for Azure infrastructure
-- Automating infrastructure deployment and Linux monitoring
-- Developing CI/CD pipelines using Azure DevOps
-- Learning containerization and infrastructure monitoring
+I work on cloud infrastructure automation, Infrastructure as Code (IaC), CI/CD pipelines, and Linux monitoring. My GitHub repositories showcase hands-on practice with Azure, Terraform modules, and DevOps automation.
 
-### Technologies
+## 🛠️ Technologies
 
-- Cloud: Microsoft Azure
-- Infrastructure as Code: Terraform
-- CI/CD: Azure DevOps Pipelines
-- Operating Systems: Linux
-- Scripting: Bash
-- Version Control: Git, GitHub
+- **Cloud:** Microsoft Azure
+- **IaC:** Terraform
+- **CI/CD:** Azure DevOps Pipelines
+- **Operating Systems:** Linux
+- **Scripting:** Bash
+- **Version Control:** Git & GitHub
 
-### Projects
+## 📂 Repositories
 
-- [terraform-azure-infrastructure](https://github.com/sharanjeetaulakh/terraform-azure-infrastructure)
-- [terraform-azure-resource-group](https://github.com/sharanjeetaulakh/terraform-azure-resource-group)
-- [terraform-azure-storage-account](https://github.com/sharanjeetaulakh/terraform-azure-storage-account)
-- [terraform-azure-container](https://github.com/sharanjeetaulakh/terraform-azure-container)
-- [terraform-azure-blob](https://github.com/sharanjeetaulakh/terraform-azure-blob)
-- [infrapulse-linux-monitoring](https://github.com/sharanjeetaulakh/infrapulse-linux-monitoring)
-- [infrapulse-linux-monitoring-cicd](https://github.com/sharanjeetaulakh/infrapulse-linux-monitoring-cicd)
+### ☁️ Terraform & Azure Infrastructure
 
-### Connect
+- [terraform-azure-resource-group](https://github.com/sharanjeetaulakh/terraform-azure-resource-group) — Azure Resource Group module
+- [terraform-azure-storage-account](https://github.com/sharanjeetaulakh/terraform-azure-storage-account) — Azure Storage Account module
+- [terraform-azure-container](https://github.com/sharanjeetaulakh/terraform-azure-container) — Azure Storage Container module
+- [terraform-azure-blob](https://github.com/sharanjeetaulakh/terraform-azure-blob) — Azure Blob module
+- [terraform-azure-infrastructure](https://github.com/sharanjeetaulakh/terraform-azure-infrastructure) — Infrastructure assembled using Terraform modules
 
-- [GitHub](https://github.com/sharanjeetaulakh)
-- [LinkedIn](https://www.linkedin.com/)
+### 🐧 Linux & CI/CD
 
+- [infrapulse-linux-monitoring](https://github.com/sharanjeetaulakh/infrapulse-linux-monitoring) — Linux health and service monitoring using Bash
+- [infrapulse-linux-monitoring-cicd](https://github.com/sharanjeetaulakh/infrapulse-linux-monitoring-cicd) — Azure DevOps pipeline for monitoring checks
+
+## 🎯 Current Focus
+
+- Improving reusable Terraform modules
+- Building reliable Azure DevOps pipelines
+- Practising cloud infrastructure automation
+- Strengthening Linux monitoring and scripting skills
+
+## 🤝 Connect
+
+- [GitHub](https://github.com/sharanjeetaulakh)   - [LinkedIn](https://www.linkedin.com/in/sharanjeetaulakh/)
