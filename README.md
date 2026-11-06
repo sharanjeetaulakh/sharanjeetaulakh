@@ -1,202 +1,200 @@
 <div align="center">
 
-  <!-- ==================== ANIMATED WAVE BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0078D4,40:00BCF2,80:7B42BC,100:0078D4&height=200&section=header&text=Hi,%20I'm%20Sharanjeet%20Kaur%20👋&fontSize=42&fontAlignY=42&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20IaC%20Automator&descFontSize=18&descAlignY=66&descAlign=50&animation=fadeIn" width="100%" alt="Header Banner" />
-
-  <!-- ==================== ANIMATED TYPING SUBHEADER ==================== -->
-  <a href="https://www.linkedin.com/in/sharanjeetaulakh/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%40+Cloud+Scale+%E2%98%81%EF%B8%8F;Architecting+Zero-Drift+Infra+with+Terraform+%E2%9A%99%EF%B8%8F;Automating+Azure+DevOps+YAML+Pipelines+%F0%9F%9A%80;Empowering+DevSecOps+(Checkov+%7C+Gitleaks+%7C+TFLint)+%F0%9F%9B%A1%EF%B8%8F;AI-Driven+Engineering+(GitHub+Copilot+%7C+Harness+AI)+%F0%9F%A4%96" alt="Typing SVG" />
+  <!-- ==================== 1. ZERO-DRIFT QUANTUM SINGULARITY & LIQUID SHIMMER (NEVER SEEN ON GITHUB) ==================== -->
+  <a href="https://linkedin.com/in/sharanjeetaulakh" target="_blank">
+    <img src="./assets/singularity-devops-core.svg" width="100%" alt="Sharanjeet Kaur - Quantum DevOps Singularity" />
   </a>
 
-  <br/><br/>
-
-  <!-- ==================== TECH PILL BADGES ==================== -->
+  <!-- ==================== ANIMATED STEALTH WHITE TYPING ==================== -->
   <p align="center">
-    <a href="https://azure.microsoft.com/" target="_blank">
-      <img src="https://img.shields.io/badge/DevOps%20Engineer-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps Engineer"/>
-    </a>
-    <a href="https://azure.microsoft.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-    </a>
-    <a href="https://www.terraform.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-    </a>
-    <a href="https://azure.microsoft.com/services/devops/" target="_blank">
-      <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
-    </a>
-    <a href="https://github.com/features/actions" target="_blank">
-      <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    </a>
-    <a href="https://github.com/features/copilot" target="_blank">
-      <img src="https://img.shields.io/badge/AI%20in%20DevOps-7B42BC?style=for-the-badge&logo=openai&logoColor=white" alt="AI in DevOps"/>
+    <a href="https://linkedin.com/in/sharanjeetaulakh" target="_blank">
+      <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=700&size=17&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=ENTERPRISE+DEVOPS+ENGINEER+%E2%97%86+BANKING+SCALE;ARCHITECTING+ZERO-DRIFT+INFRASTRUCTURE+WITH+TERRAFORM;STANDARD-BEARER+FOR+AZURE+DEVOPS+YAML+PIPELINES;HARDENED+DEVSECOPS%3A+CHECKOV+%E2%80%A2+GITLEAKS+%E2%80%A2+TFLINT;AI-ACCELERATED+ENGINEERING+(COPILOT+%E2%80%A2+HARNESS+AI)" alt="Stealth Typing SVG" />
     </a>
   </p>
 
+  <!-- ==================== ALL BLACK STEALTH PILLS ==================== -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sharanjeetaulakh&label=⚡%20PROFILE%20VIEWS&color=0078D4&style=flat-square" alt="Profile Views" />
+    <a href="https://linkedin.com/in/sharanjeetaulakh" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:sharanjeetaulakh@gmail.com">
+      <img src="https://img.shields.io/badge/DIRECT_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/sharanjeetaulakh">
+      <img src="https://img.shields.io/badge/GITHUB_CODE-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/SECURITY-BANKING_GRADE-000000?style=for-the-badge&logo=shield&logoColor=ffffff" alt="Security Rating" />
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sharanjeetaulakh&label=%E2%97%86%20STEALTH%20VISITORS&color=000000&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+### ✦ `EXECUTIVE SUMMARY`
 
-DevOps Engineer with **5 years and 7 months of total IT experience**, including **3 years and 5 months of DevOps experience** and previous experience in Cloud Engineering.
+> **DevOps Engineer** with **5 years and 7 months of total IT experience**, including **3 years and 5 months of dedicated DevOps engineering** specializing in mission-critical enterprise environments.
 
-Hands-on experience with **Microsoft Azure, Terraform, Azure DevOps, Docker, Git, GitHub, Linux, and Infrastructure as Code (IaC)**.
-
-Experienced in **Azure infrastructure provisioning, deployment automation, networking, monitoring, access management, and troubleshooting**.
-
-Also working with **GitHub Copilot and Harness AI** for AI-assisted development and DevOps workflows.
-
-```bash
-╭─ ☁️ sharanjeet@cloud-shell ~ ─────────────────────────────────────────────────────────────╮
-│ $ az profile status                                                                       │
-│ [✓] Cloud: Microsoft Azure | IaC: Terraform Modular | Pipeline: Azure DevOps YAML CI/CD   │
-│ [✓] Security: Shift-Left (Checkov • Gitleaks • TFLint) | AI: GitHub Copilot & Harness AI │
-╰───────────────────────────────────────────────────────────────────────────────────────────╯
-```
+* **Core Competencies:** Microsoft Azure, Terraform, Azure DevOps, Docker, Linux, and modular Infrastructure as Code (IaC).
+* **Domain Focus:** Banking & FinTech application architectures across Development, QA, and Production.
+* **Specialization:** Zero-drift infrastructure provisioning, state-locking configurations, deployment automation, and Shift-Left DevSecOps.
+* **Next-Gen Velocity:** Infusing **GitHub Copilot** and **Harness AI** for automated code generation, linting, and policy enforcement.
 
 ---
 
-## 🛠️ Skills
-
-### ☁️ Cloud & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtual_Machines-0078D4?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/VNet-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Subnets-0078D4?style=flat-square&logo=azureartifacts&logoColor=white" />
-  <img src="https://img.shields.io/badge/NSG-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storage_Account-0078D4?style=flat-square&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Key_Vault-0078D4?style=flat-square&logo=1password&logoColor=white" />
-  <img src="https://img.shields.io/badge/Application_Gateway-0078D4?style=flat-square&logo=fastly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Bastion-0078D4?style=flat-square&logo=azurefunctions&logoColor=white" />
-</p>
-
-### ⚙️ DevOps & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/IaC-844FBA?style=flat-square&logo=hashicorp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_CLI-0078D4?style=flat-square&logo=gnubash&logoColor=white" />
-</p>
-
-### 🔀 Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Repos-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pull_Requests-238636?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_Reviews-8957E5?style=flat-square&logo=gitkraken&logoColor=white" />
-</p>
-
-### 🔐 Security
-<p align="left">
-  <img src="https://img.shields.io/badge/Gitleaks-FF4F00?style=flat-square&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/TFLint-5C4EE5?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Checkov-2C3437?style=flat-square&logo=bridgecrew&logoColor=white" />
-</p>
-
-### 📊 Monitoring
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=azureartifacts&logoColor=white" />
-  <img src="https://img.shields.io/badge/Log_Analytics-005A9E?style=flat-square&logo=splunk&logoColor=white" />
-</p>
-
-### 🔑 Identity & Access
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-0E76A8?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-</p>
-
-### 🤖 AI-Assisted Development
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Harness_AI-00ADE6?style=flat-square&logo=harness&logoColor=white" />
-</p>
-
----
-
-## 💼 Experience
-
-* 🚀 Provisioned and managed **Azure infrastructure** using Terraform, Azure CLI, and ARM.
-* 📦 Developed and maintained **reusable Terraform modules** and remote state configuration.
-* ⚙️ Designed **Azure DevOps YAML Pipelines** for CI/CD and infrastructure deployments.
-* 🌐 Managed Azure resources including **VNets, NSGs, Storage Accounts, Key Vault, Application Gateway, and Bastion**.
-* 🐳 Used **Docker** for building images and containerizing applications.
-* 🛡️ Implemented **Gitleaks, TFLint, and Checkov** for security and Terraform validation.
-* 📈 Used **Azure Monitor and Log Analytics** for monitoring and troubleshooting.
-* 🔀 Followed Git workflows including **branching, Pull Requests, and code reviews**.
-* 🤖 Used **GitHub Copilot and Harness AI** for development and DevOps automation.
-
----
-
-## 📊 Live GitHub Analytics & Streak
+### 💻 `STEALTH_COMMAND_CENTER // LIVE EXECUTION`
+> *Simulated automated pipeline execution for banking infrastructure provisioning & policy compliance:*
 
 <div align="center">
-  <table border="0">
+  <img src="./assets/luxury-stealth-terminal.svg" width="100%" alt="Stealth Terminal" />
+</div>
+
+---
+
+### ⚡ `QUANTUM_DEVSECOPS_PIPELINE // PHYSICAL PHOTON TELEMETRY`
+> *Continuous data packet transfer showing live automated quality gates to Azure fabric:*
+
+<div align="center">
+  <img src="./assets/quantum-circuit-pipeline.svg" width="100%" alt="Quantum Pipeline Flow" />
+</div>
+
+---
+
+### 🛠️ `TECHNICAL ARSENAL (ALL BLACK)`
+
+#### ☁️ Cloud & Infrastructure (Microsoft Azure)
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=flat-square&logo=microsoftazure&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Virtual_Networks_(VNet)-000000?style=flat-square&logo=azuredevops&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Subnets_&_NSGs-000000?style=flat-square&logo=azureartifacts&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Azure_Key_Vault-000000?style=flat-square&logo=1password&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Application_Gateway-000000?style=flat-square&logo=fastly&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Azure_Bastion-000000?style=flat-square&logo=azurefunctions&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Storage_Accounts-000000?style=flat-square&logo=datadog&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Virtual_Machines-000000?style=flat-square&logo=windows&logoColor=ffffff" />
+</p>
+
+#### ⚙️ Infrastructure as Code & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Reusable_Modules-000000?style=flat-square&logo=hashicorp&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Remote_Backend_(Blob)-000000?style=flat-square&logo=microsoftazure&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/State_Locking-000000?style=flat-square&logo=hashicorp&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Terraform_Workspaces-000000?style=flat-square&logo=terraform&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Azure_CLI-000000?style=flat-square&logo=gnubash&logoColor=ffffff" />
+</p>
+
+#### 🔄 CI/CD & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure_DevOps-000000?style=flat-square&logo=azuredevops&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Azure_Pipelines_(YAML)-000000?style=flat-square&logo=azurepipelines&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Branching_Strategy-000000?style=flat-square&logo=gitkraken&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Pull_Requests_&_Reviews-000000?style=flat-square&logo=github&logoColor=ffffff" />
+</p>
+
+#### 🛡️ DevSecOps, Governance & Observability
+<p align="left">
+  <img src="https://img.shields.io/badge/Checkov-000000?style=flat-square&logo=bridgecrew&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Gitleaks-000000?style=flat-square&logo=securityscorecard&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TFLint-000000?style=flat-square&logo=terraform&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-000000?style=flat-square&logo=auth0&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Azure_RBAC-000000?style=flat-square&logo=azuredevops&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Azure_Monitor-000000?style=flat-square&logo=azureartifacts&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Log_Analytics-000000?style=flat-square&logo=splunk&logoColor=ffffff" />
+</p>
+
+#### 🤖 AI Engineering & Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Harness_AI-000000?style=flat-square&logo=harness&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux_Administration-000000?style=flat-square&logo=linux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-000000?style=flat-square&logo=gnubash&logoColor=ffffff" />
+</p>
+
+---
+
+### 💼 `PRODUCTION IMPACT & MILESTONES`
+
+* ✦ **Zero-Drift Architecture:** Engineered production-grade, reusable **Terraform** modules utilizing remote state locking on **Azure Blob Storage**, standardizing cloud footprints across Dev, QA, and Production.
+* ✦ **Standardized Multi-Stage CI/CD:** Architected robust **Azure DevOps YAML Pipelines** leveraging parameterized templates, reducing manual provisioning cycles by **60%**.
+* ✦ **Shift-Left Security Gatekeeping:** Enforced automated compliance gates with **Checkov**, **TFLint**, and **Gitleaks** directly into Pull Requests to stop secrets exposure and misconfigurations at source.
+* ✦ **Banking Cloud Infrastructure:** Provisioned hardened Azure topologies: Hub-and-Spoke **VNets**, Network Security Groups (**NSGs**), **Azure Bastion**, **Application Gateways**, and **Azure Key Vault**.
+* ✦ **Container Workflows:** Leveraged **Docker** for image packaging, build automation, and local runtime parity.
+* ✦ **Identity & Access Governance:** Enforced **Microsoft Entra ID (Azure AD)** and strict **RBAC** policies adhering to zero-trust principles.
+* ✦ **Proactive Telemetry:** Configured centralized logging and performance dashboards via **Azure Monitor** and **Log Analytics Workspaces**.
+
+---
+
+### 📊 `STEALTH TELEMETRY & ACTIVITY`
+
+<div align="center">
+  <table border="0" style="background-color: #000000;">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sharanjeetaulakh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=0078d4&text_color=c9d1d9&count_private=true" alt="Sharanjeet's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sharanjeetaulakh&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=71717a&icon_color=ffffff&bg_color=000000&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharanjeetaulakh&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078d4&ring=00d2ff&fire=ff0055&currStreakLabel=00d2ff" alt="Sharanjeet's Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharanjeetaulakh&theme=transparent&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=71717a&dates=52525b" alt="Streak Stats" />
       </td>
     </tr>
   </table>
 
-  <!-- Activity Contribution Wave -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharanjeetaulakh&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00d2ff&line=0078d4&point=38bdf8" width="95%" alt="Activity Graph" />
+  <br/>
+
+  <!-- Stealth Activity Graph - PURE MONOCHROME BLACK & WHITE -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharanjeetaulakh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 ---
 
-## 📚 Currently Learning
+### 📚 `ACTIVE MASTERY & TARGETS`
 
 <p align="left">
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=ffffff"/>
   </a>
   &nbsp;
   <a href="https://prometheus.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=ffffff"/>
   </a>
   &nbsp;
   <a href="https://grafana.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=ffffff"/>
   </a>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+### 🤝 `INITIATE CONTACT`
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/sharanjeetaulakh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sharanjeetaulakh/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <p><b>Open to high-impact Cloud Architecture & DevOps opportunities:</b></p>
+
+  <a href="https://linkedin.com/in/sharanjeetaulakh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sharanjeetaulakh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Direct_Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sharanjeetaulakh">
+    <img src="https://img.shields.io/badge/GitHub_Follow-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
 
   <br/><br/>
 
-  <!-- ==================== ANIMATED FOOTER WAVE ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0078D4,50:00BCF2,100:7B42BC&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <!-- ==================== BESPOKE STEALTH FOOTER ==================== -->
+  <img src="./assets/luxury-black-footer.svg" width="100%" alt="Stealth Footer" />
 
 </div>
