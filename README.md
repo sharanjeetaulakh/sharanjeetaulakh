@@ -3,115 +3,69 @@
 
 # Sharanjeet Kaur
 
-**DevOps Engineer | Azure | Terraform | CI/CD**
+### DevOps Engineer | Azure | Terraform | CI/CD
 
-*Building, automating and improving cloud infrastructure.*
-
-![DevOps](https://img.shields.io/badge/DevOps-111111?style=flat-square&logo=linux&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-111111?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-111111?style=flat-square&logo=terraform&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-111111?style=flat-square&logo=azuredevops&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-111111?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
-![AI](https://img.shields.io/badge/AI-111111?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sharanjeetaulakh/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-white?style=flat-square&logo=github&logoColor=black)](https://github.com/sharanjeetaulakh)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-DevOps Engineer with **5+ years of total professional experience**, including **3 years and 5 months of DevOps experience** and previous experience in Cloud Engineering.
+DevOps Engineer with **5+ years of total professional experience**, including **3 years and 5 months in DevOps** and previous experience in Cloud Engineering.
 
-Hands-on experience with **Microsoft Azure, Terraform, Azure DevOps, Docker, Git, GitHub, Linux, and Infrastructure as Code (IaC).**
+Focused on building reliable Azure infrastructure, Infrastructure as Code, deployment automation and cloud operations.
 
-Experienced in **Azure infrastructure provisioning, deployment automation, networking, monitoring, access management, and troubleshooting.**
+- Azure infrastructure provisioning and management
+- Terraform modules and reusable infrastructure
+- CI/CD pipeline implementation
+- Cloud networking, security and monitoring
+- Automation using DevOps and AI-assisted tools
 
-Also working with **GitHub Copilot and Harness AI** for AI-assisted development and DevOps workflows.
+## Technology Stack
 
----
+**Cloud & Infrastructure**
 
-## 🛠️ Technical Skills
+![Azure](https://img.shields.io/badge/Azure-FFFFFF?style=flat-square&logo=microsoftazure&logoColor=000000)
+![Terraform](https://img.shields.io/badge/Terraform-FFFFFF?style=flat-square&logo=terraform&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=000000)
 
-**☁️ Cloud & Infrastructure**
+**DevOps & Automation**
 
-`Azure` `Virtual Machines` `VNet` `Subnets` `NSG` `Storage Account` `Key Vault` `Application Gateway` `Azure Bastion`
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-FFFFFF?style=flat-square&logo=azuredevops&logoColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=000000)
 
-**⚙️ DevOps & Automation**
+**Security & Monitoring**
 
-`Terraform` `Azure DevOps` `CI/CD` `YAML` `Docker` `IaC` `Azure CLI`
+![Gitleaks](https://img.shields.io/badge/Gitleaks-FFFFFF?style=flat-square&logo=git&logoColor=000000)
+![Checkov](https://img.shields.io/badge/Checkov-FFFFFF?style=flat-square&logo=checkmarx&logoColor=000000)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-FFFFFF?style=flat-square&logo=microsoftazure&logoColor=000000)
 
-**🔀 Version Control**
+**AI-Assisted Development**
 
-`Git` `GitHub` `Azure Repos` `Pull Requests` `Code Reviews`
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-FFFFFF?style=flat-square&logo=githubcopilot&logoColor=000000)
+![Harness AI](https://img.shields.io/badge/Harness_AI-FFFFFF?style=flat-square&logo=harness&logoColor=000000)
 
-**🔐 Security & Validation**
+## What I Work On
 
-`Gitleaks` `TFLint` `Checkov`
+- Designing and provisioning Azure infrastructure using Terraform.
+- Developing reusable and parameterized Terraform modules.
+- Managing remote state and infrastructure configurations.
+- Building Azure DevOps YAML CI/CD pipelines.
+- Implementing cloud networking, access control and security.
+- Integrating code and infrastructure security checks.
+- Monitoring cloud resources and troubleshooting deployments.
 
-**📊 Monitoring**
+## Currently Exploring
 
-`Azure Monitor` `Log Analytics`
-
-**🔑 Identity & Access Management**
-
-`Microsoft Entra ID` `RBAC` `ARM`
-
-**🤖 AI-Assisted Development**
-
-`GitHub Copilot` `Harness AI`
-
----
-
-## 💼 Professional Experience
-
-- Provisioned and managed **Azure infrastructure** using Terraform, Azure CLI, and ARM.
-- Developed and maintained **reusable Terraform modules** and remote state configuration.
-- Designed **Azure DevOps YAML Pipelines** for CI/CD and infrastructure deployments.
-- Managed Azure resources including **VNets, NSGs, Storage Accounts, Key Vault, Application Gateway, and Bastion**.
-- Used **Docker** for building images and containerizing applications.
-- Implemented **Gitleaks, TFLint, and Checkov** for security and Terraform validation.
-- Used **Azure Monitor and Log Analytics** for monitoring and troubleshooting.
-- Followed Git workflows including **branching, Pull Requests, and code reviews**.
-- Used **GitHub Copilot and Harness AI** for development and DevOps automation.
-
----
-
-## 🚀 Infrastructure & DevOps Focus
-
-- Azure Infrastructure as Code
-- Terraform reusable modules
-- Azure Networking and Security
-- Private Endpoint and Service Endpoint
-- Azure Storage and Access Management
-- CI/CD Pipeline Automation
-- Linux Monitoring and Troubleshooting
-- Cloud Infrastructure Management
-
----
-
-## 📚 Currently Learning
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-111111?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-111111?style=flat-square&logo=grafana&logoColor=white)
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharanjeetaulakh/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/sharanjeetaulakh)
-
-</div>
+Kubernetes · Prometheus · Grafana · Advanced DevOps Automation
 
 ---
 
 <div align="center">
-
-*Cloud Infrastructure • Automation • Continuous Improvement*
 
 </div>
