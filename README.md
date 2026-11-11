@@ -1,37 +1,23 @@
 
 <div align="center">
 
-<img src="./assets/golden-sparkle-divider.gif" width="100%" alt="Subtle golden sparkle animation">
-
 # Hi, I'm Sharanjeet Kaur 👋
 
-<a href="https://www.google.com/search?q=DevOps+Engineer" target="_blank">
-<img src="https://img.shields.io/badge/DevOps%20Engineer-0078D4?style=flat-square"/>
-</a>
-<a href="https://www.google.com/search?q=Azure" target="_blank">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=Terraform" target="_blank">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=Azure+DevOps" target="_blank">
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=CI%2FCD" target="_blank">
-<img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square"/>
-</a>
-<a href="https://www.google.com/search?q=Docker" target="_blank">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=AI+in+DevOps" target="_blank">
-<img src="https://img.shields.io/badge/AI-7B42BC?style=flat-square"/>
-</a>
+<a href="https://www.google.com/search?q=DevOps+Engineer" target="_blank"><img src="https://img.shields.io/badge/DevOps%20Engineer-0078D4?style=flat-square"/></a>
+<a href="https://www.google.com/search?q=Azure" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=Terraform" target="_blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=Azure+DevOps" target="_blank"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=CI%2FCD" target="_blank"><img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square"/></a>
+<a href="https://www.google.com/search?q=Docker" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=AI+in+DevOps" target="_blank"><img src="https://img.shields.io/badge/AI-7B42BC?style=flat-square"/></a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<p align="center">
+<img src="./assets/about.svg" alt="About Me"/>
+</p>
 
 DevOps Engineer with **5 years and 7 months of total IT experience**, including **3 years and 5 months of DevOps experience** and previous experience in Cloud Engineering.
 
@@ -43,7 +29,9 @@ Also working with **GitHub Copilot and Harness AI** for AI-assisted development 
 
 ---
 
-## 🛠️ Skills
+<p align="center">
+<img src="./assets/skills.svg" alt="Skills"/>
+</p>
 
 ### ☁️ Cloud & Infrastructure
 
@@ -75,7 +63,9 @@ Also working with **GitHub Copilot and Harness AI** for AI-assisted development 
 
 ---
 
-## 💼 Experience
+<p align="center">
+<img src="./assets/experience.svg" alt="Experience"/>
+</p>
 
 - Provisioned and managed **Azure infrastructure** using Terraform, Azure CLI, and ARM.
 - Developed and maintained **reusable Terraform modules** and remote state configuration.
@@ -89,31 +79,23 @@ Also working with **GitHub Copilot and Harness AI** for AI-assisted development 
 
 ---
 
-## 📚 Currently Learning
+<p align="center">
+<img src="./assets/learning.svg" alt="Currently Learning"/>
+</p>
 
-<a href="https://www.google.com/search?q=Kubernetes" target="_blank">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=Prometheus" target="_blank">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=Grafana" target="_blank">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</a>
+<a href="https://www.google.com/search?q=Kubernetes" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=Prometheus" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=Grafana" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/></a>
 
 ---
 
-## 🔗 Connect With Me
+<p align="center">
+<img src="./assets/connect.svg" alt="Connect With Me"/>
+</p>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sharanjeetaulakh/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/sharanjeetaulakh/" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<img src="./assets/golden-sparkle-divider.gif" width="100%" alt="Subtle golden sparkle animation">
+<a href="https://www.linkedin.com/in/sharanjeetaulakh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/sharanjeetaulakh/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
