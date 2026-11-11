@@ -1,39 +1,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:17130C,100:080808&height=120&section=header&animation=fadeIn" width="100%"/>
-
 # Hi, I'm Sharanjeet Kaur 👋
 
-**<span>DevOps Engineer | Azure | Terraform | CI/CD</span>**
-
-<a href="https://www.google.com/search?q=DevOps+Engineer">
 <img src="https://img.shields.io/badge/DevOps%20Engineer-0078D4?style=flat-square"/>
-</a>
-<a href="https://www.google.com/search?q=Azure">
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=Terraform">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=Azure+DevOps">
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=CI%2FCD">
 <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square"/>
-</a>
-<a href="https://www.google.com/search?q=Docker">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</a>
-<a href="https://www.google.com/search?q=AI+in+DevOps">
 <img src="https://img.shields.io/badge/AI-7B42BC?style=flat-square"/>
-</a>
 
 </div>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C49A50,100:080808&height=2" width="100%"/>
+</p>
 
-## 👩‍💻 About Me
+## <span style="color:#D6B36A">👩‍💻 About Me</span>
 
 DevOps Engineer with **5 years and 7 months of total IT experience**, including **3 years and 5 months of DevOps experience** and previous experience in Cloud Engineering.
 
@@ -45,7 +29,7 @@ Also working with **GitHub Copilot and Harness AI** for AI-assisted development 
 
 ---
 
-## 🛠️ Skills
+## <span style="color:#D6B36A">🛠️ Skills</span>
 
 ### ☁️ Cloud & Infrastructure
 
@@ -77,7 +61,7 @@ Also working with **GitHub Copilot and Harness AI** for AI-assisted development 
 
 ---
 
-## 💼 Experience
+## <span style="color:#D6B36A">💼 Experience</span>
 
 - Provisioned and managed **Azure infrastructure** using Terraform, Azure CLI, and ARM.
 - Developed and maintained **reusable Terraform modules** and remote state configuration.
@@ -91,7 +75,7 @@ Also working with **GitHub Copilot and Harness AI** for AI-assisted development 
 
 ---
 
-## 📚 Currently Learning
+## <span style="color:#D6B36A">📚 Currently Learning</span>
 
 <a href="https://www.google.com/search?q=Kubernetes">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -105,7 +89,7 @@ Also working with **GitHub Copilot and Harness AI** for AI-assisted development 
 
 ---
 
-## 🔗 Connect With Me
+## <span style="color:#D6B36A">🔗 Connect With Me</span>
 
 <div align="center">
 
@@ -117,6 +101,8 @@ Also working with **GitHub Copilot and Harness AI** for AI-assisted development 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C49A50,100:080808&height=2&section=footer" width="100%"/>
-
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C49A50,100:080808&height=2" width="100%"/>
+</p>
